@@ -1,0 +1,15 @@
+{
+    "name": "lucas/api",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Lucas\\Api\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas"
+        }
+    ],
+    "require": {}
+}
